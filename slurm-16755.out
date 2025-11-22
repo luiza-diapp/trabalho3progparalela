@@ -1,0 +1,101 @@
+Rodada 1 
+Params: nq=128 npp=400000 d=300 k=1024  procs=4  threads/rank=4 verify=off
+
+[KNN Timing]
+Total (incl. Tx P/Q, compute, Rx R): 11.167190 s
+  Bcast(P):   1.100152 s
+  Scatter(Q): 0.000552 s
+  Compute:    9.999194 s (threads/rank=4)
+  Gather(R):  0.067282 s
+
+Rodada 2 
+Params: nq=128 npp=400000 d=300 k=1024  procs=4  threads/rank=4 verify=off
+
+[KNN Timing]
+Total (incl. Tx P/Q, compute, Rx R): 11.111640 s
+  Bcast(P):   1.110140 s
+  Scatter(Q): 0.000550 s
+  Compute:    9.821923 s (threads/rank=4)
+  Gather(R):  0.179015 s
+
+Rodada 3 
+Params: nq=128 npp=400000 d=300 k=1024  procs=4  threads/rank=4 verify=off
+
+[KNN Timing]
+Total (incl. Tx P/Q, compute, Rx R): 11.025556 s
+  Bcast(P):   1.105798 s
+  Scatter(Q): 0.000526 s
+  Compute:    9.918462 s (threads/rank=4)
+  Gather(R):  0.000761 s
+
+Rodada 4 
+Params: nq=128 npp=400000 d=300 k=1024  procs=4  threads/rank=4 verify=off
+
+[KNN Timing]
+Total (incl. Tx P/Q, compute, Rx R): 11.240491 s
+  Bcast(P):   1.102137 s
+  Scatter(Q): 0.000534 s
+  Compute:    10.038956 s (threads/rank=4)
+  Gather(R):  0.098855 s
+
+Rodada 5 
+Params: nq=128 npp=400000 d=300 k=1024  procs=4  threads/rank=4 verify=off
+
+[KNN Timing]
+Total (incl. Tx P/Q, compute, Rx R): 11.286788 s
+  Bcast(P):   1.178865 s
+  Scatter(Q): 0.000568 s
+  Compute:    10.106594 s (threads/rank=4)
+  Gather(R):  0.000752 s
+
+Rodada 6 
+Params: nq=128 npp=400000 d=300 k=1024  procs=4  threads/rank=4 verify=off
+
+[KNN Timing]
+Total (incl. Tx P/Q, compute, Rx R): 11.204317 s
+  Bcast(P):   1.100972 s
+  Scatter(Q): 0.000569 s
+  Compute:    10.101985 s (threads/rank=4)
+  Gather(R):  0.000783 s
+
+Rodada 7 
+Params: nq=128 npp=400000 d=300 k=1024  procs=4  threads/rank=4 verify=off
+
+[KNN Timing]
+Total (incl. Tx P/Q, compute, Rx R): 11.270620 s
+  Bcast(P):   1.174401 s
+  Scatter(Q): 0.000590 s
+  Compute:    10.094849 s (threads/rank=4)
+  Gather(R):  0.000771 s
+
+Rodada 8 
+Params: nq=128 npp=400000 d=300 k=1024  procs=4  threads/rank=4 verify=off
+
+[KNN Timing]
+Total (incl. Tx P/Q, compute, Rx R): 11.214343 s
+  Bcast(P):   1.106739 s
+  Scatter(Q): 0.000543 s
+  Compute:    10.019452 s (threads/rank=4)
+  Gather(R):  0.087600 s
+
+Rodada 9 
+Params: nq=128 npp=400000 d=300 k=1024  procs=4  threads/rank=4 verify=off
+
+[KNN Timing]
+Total (incl. Tx P/Q, compute, Rx R): 10.723577 s
+  Bcast(P):   1.110283 s
+  Scatter(Q): 0.000539 s
+  Compute:    9.435601 s (threads/rank=4)
+  Gather(R):  0.177143 s
+
+Rodada 10 
+Params: nq=128 npp=400000 d=300 k=1024  procs=4  threads/rank=4 verify=off
+
+[KNN Timing]
+Total (incl. Tx P/Q, compute, Rx R): 11.051005 s
+  Bcast(P):   1.199106 s
+  Scatter(Q): 0.000601 s
+  Compute:    9.850461 s (threads/rank=4)
+  Gather(R):  0.000829 s
+
+/var/spool/slurmd/job16755/slurm_script: line 13: -: command not found
